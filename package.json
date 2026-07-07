@@ -59,7 +59,8 @@
     "serve-static": "^2.2.0",
     "statuses": "^2.0.1",
     "type-is": "^2.1.0",
-    "vary": "^1.1.2"
+    "vary": "^1.1.2",
+    "mquery":"6.0.0"
   },
   "devDependencies": {
     "after": "0.8.2",
